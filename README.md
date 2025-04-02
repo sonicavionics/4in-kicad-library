@@ -1,1 +1,0 @@
-# KiCad Library for the 4" Avionics
